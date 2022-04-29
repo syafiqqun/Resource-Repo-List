@@ -1,12 +1,12 @@
 # Resource-Repo-List
 
-Godot Application Project:
+## Godot Application Project:
 
 1.[Digital Timer Display](https://github.com/syafiqqun/Digital-Timer-Display)
 
 2.[StopWatch](https://github.com/syafiqqun/StopWatch)
 
-Godot Game Project:
+## Godot Game Project:
 
 1.[Tic Tac Toe v1](https://github.com/syafiqqun/Tic-Tac-Toe-version-1)
 
@@ -16,7 +16,6 @@ Godot Game Project:
 
 4.[Type Words](https://github.com/syafiqqun/Type-Words)
 
-
-Godot Addons and Static Helper Class
+## Godot Addons and Static Helper Class
 
 1.[OS Utillity Class](https://github.com/syafiqqun/os-util-class-for-GDScript)
